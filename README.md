@@ -1,11 +1,15 @@
 # Labākais Ceļš
 ## Interaktīva karte, kura sniedz iespēju cilvēkiem ar kustību traucējumiem atrast pieejamus un drošus maršrutus Rīgas apkaimē.
 
-# Mājaslpas darbība un funkcijas
-### Mājaslapa ir izstrādāta, lai palīdzētu cilvēkiem, kuri pārvietojas ar ratiņkrēslu, vieglāk orientēties pilsētā. Tā nodrošinās iespēju izvēlēties piemērotākos maršrutus, ņemot vērā ietvju kvalitāti un pieejamību. Mājaslapā tiks norādītas vietas, kur ietves ir piemērotas ratiņkrēslu pārvietošanai, kā arī izvairīšanās no bedrēm, šķēršļiem un citiem elementiem, kas varētu traucēt brīvu pārvietošanos.
+# Mājaslapas darbība un funkcijas
+### Mājaslapa tika izstrādāta, lai palīdzētu cilvēkiem, kuri pārvietojas ar ratiņkrēslu, vieglāk orientēties pilsētā. Tā nodrošina iespēju izvēlēties piemērotākos maršrutus, ņemot vērā ietvju kvalitāti un pieejamību. Mājaslapā tiek norādītas vietas, kur ietves ir piemērotas, lai pārvietotos ar ratiņkrēslu, kā arī izvairīšanās no bedrēm, šķēršļiem un citiem elementiem, kas varētu traucēt brīvu pārvietošanos.
 
 # Mūsu mērķis
 ### Sniegt digitālu un ikvienam pieejamu karti, kura paredzēta cilvēkiem ar kustību traucējumiem, taču to var izmantot ikviens, lai gūtu priekšstatu par Rīgas mikrorajonu ielu pieejamibu, drošību un kvalitāti. Šis projekts tiecas ne tikai uzlabot pārvietošanās iespējas cilvēkiem ar kustību traucējumiem, bet arī paaugstināt sabiedrības apziņu par ielu pieejamību visiem pilsētas iedzīvotājiem.
+
+## ⚠️ Piezīme
+Dati par ielu pieejamību Dārzciema mikrorajonā ir apkopoti 2025. gadā un var nebūt aktuāli šobrīd.  
+Projekta darbības periods: 01.02.2025 – 01.02.2026.
 
 ![image](https://github.com/user-attachments/assets/b771391d-beb2-4ee9-b00b-011c81ffa087)
 ![image](https://github.com/user-attachments/assets/0e0367e9-b62c-4fdb-9dc3-d0be67e1198f)
